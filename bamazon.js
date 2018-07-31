@@ -1,5 +1,3 @@
-import { PassThrough } from 'stream';
-
 var mysql = require ('mysql');
 var inquirer = require ('inquirer');
 
